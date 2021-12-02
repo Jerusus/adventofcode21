@@ -10,7 +10,7 @@ class Solution1 {
   }
 
   public static void part_one() {
-    File file = new File("input.txt");
+    File file = new File("input1.txt");
     Scanner sc;
     int result = 0;
     int prev = Integer.MAX_VALUE;
@@ -29,7 +29,7 @@ class Solution1 {
   }
 
   public static void part_two() {
-    File file = new File("input.txt");
+    File file = new File("input1.txt");
     Scanner sc;
     int result = 0;
     int prev_sum = Integer.MAX_VALUE;
