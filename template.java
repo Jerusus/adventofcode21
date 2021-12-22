@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 class Solution { // TODO
   public static void main(String[] args) {
-    part_one();
+    partOne();
   }
 
-  public static void part_one() {
+  public static void partOne() {
     try (Scanner sc = new Scanner(new File("input.txt"))) { // TODO
       while (sc.hasNextLine()) {
       }
@@ -16,7 +16,7 @@ class Solution { // TODO
     }
   }
 
-  public static void part_two() {
+  public static void partTwo() {
     try (Scanner sc = new Scanner(new File("input.txt"))) { // TODO
       while (sc.hasNextLine()) {
       }
